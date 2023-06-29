@@ -7,7 +7,7 @@ Data Science Student
 I'm learning to code to switch careers. I started with R, but I found myself in Python.
 
 * 🌍  I'm based in Fortaleza-CE - Brazil
-* 🖥️  See my portfolio at [MyPortfolio](http://github.com/RafaelFreire92/site-portfolio)
+* 🖥️  See my portfolio at [MyPortfolio](https://github.com/RafaelFreire92/meu-portfolio)
 * 🧠  I'm learning Machine Learning
 
 ### Skills
